@@ -3,3 +3,7 @@ coverage/**
 node_modules/**
 dist/**
 src/index.html
+tests/**
+server/**
+config/**
+bin/**
